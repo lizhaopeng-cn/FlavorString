@@ -1,0 +1,107 @@
+<resources>
+    <string name="url_aihelp">https://www.baidu.com</string>
+    <string name="projectID">KR-BiLanHangXian</string>
+    <string name="channel">google</string>
+    <string name="platform">android</string>
+
+    <string name="guest_id">Guest</string>
+    <string name="yostar_id">Yostar</string>
+    <string name="google_id">Gmail</string>
+    <string name="facebook_id">FaceBook</string>
+    <string name="twitter_id">Twitter</string>
+    <string name="trans_login"></string>
+    <string name="other_login_channel">로그인 방식 변경</string>
+
+    <string name="input_email">이메일 주소 입력</string>
+    <string name="input_verification_code">인증코드 입력</string>
+    <string name="current_email">현재 이메일 주소:</string>
+    <string name="obtain">인증코드 발송</string>
+    <string name="copy"></string>
+    <string name="login">로그인</string>
+    <string name="bind">연동</string>
+    <string name="unbind">연동 해제</string>
+
+    <string name="transcode"></string>
+    <string name="transcode_login"></string>
+    <string name="input_uid"></string>
+    <string name="show_uid"></string>
+    <string name="input_transcode"></string>
+    <string name="show_transcode"></string>
+    <string name="trans"></string>
+    <string name="create_transcode"></string>
+
+    <!--初始化失败界面提示-->
+    <string name="text_init_failed">초기화 실패, 재시도 하시겠습니까?</string>
+
+    <!--恢复账号界面提示-->
+    <string name="text_restore_account">계정이 XX 후 완전히 삭제됩니다. 탈퇴를 취소하시겠습니까?</string>
+    <string name="text_restore_account_tag">XX</string>
+
+    <!--韩服游客创建账号界面提示-->
+    <string name="text_create_account">게스트 계정은 데이터가 유실될 위험이 있으며, GameName측에서는 이에 책임을 지지 않습니다.계속 진행하시겠습니까?</string>
+    <string name="text_create_account_tag">GameName</string>
+    <string name="text_create_account_bottom">주의: 계정을 생성한 뒤에는 데이터가 유실되지 않도록 최대한 신속히 "설정" 화면에서 계정 연동을 진행하여 주시기 바랍니다.</string>
+
+    <!--切换账号界面提示-->
+    <string name="text_switch_account">다른 계정으로 로그인을 진행하시겠습니까?</string>
+
+    <!--切换账号界面提示-->
+    <string name="text_switch_account_bind_guest"></string>
+
+    <!--切换账号界面提示-->
+    <string name="text_switch_account_unbind_guest"></string>
+
+    <!--日服twitter、Facebook、Google登录自动绑定账号界面提示-->
+    <string name="text_bind_account"></string>
+
+    <string name="text_unbind_account">계정 미연동으로 인한 계정 분실에 대해 Yostar 측은 책임을 지지 않습니다. 계정 연동을 하지 않는 경우 계정 분실의 위험이 있사오니, 최소 1개 이상의 플랫폼에 연동하시길 권장 드립니다. 만약 본 계정이 한 플랫폼에만 연동되어 있는 경우, 연동 해제를 진행한 뒤 더는 본 계정으로 로그인 할 수 없게 됩니다. 계속하시겠습니까?</string>
+
+    <string name="text_delete_account">귀하의 모든 데이터는 삭제되며, 복구할수 없게 됩니다. 탈퇴하시겠습니까?</string>
+
+    <string name="text_cover_transcode"></string>
+
+    <string name="retry">재시도</string>
+    <string name="contact_customer_service">고객센터</string>
+    <string name="yes">확인</string>
+    <string name="no">취소</string>
+    <string name="create">확인</string>
+    <string name="restore">탈퇴취소</string>
+
+    <string name="announcement1">공지1</string>
+    <string name="announcement2">공지2</string>
+    <string name="announcement3">공지3</string>
+
+    <!--协议-->
+    <string name="agreement1">이용약관</string>
+    <string name="agreement2"></string>
+    <string name="agreement3">개인정보처리방침</string>
+    <string name="text_shop_agreement1"></string>
+    <string name="text_shop_agreement2"></string>
+    <string name="text_shop_agreement3">청약철회 규정</string>
+    <string name="text_shop_agreement4">청약철회 설명</string>
+    <string name="text_agreement"></string>
+    <string name="text_agreement1">이용약관 동의하기</string>
+    <string name="text_agreement2">개인정보처리방침 동의하기</string>
+    <string name="text_agreement3">《청약철회 및 미성년자 법정대리인 결제 동의 확인 안내》의 내용을 확인하였으며, 이에 동</string>
+
+    <string name="unagree">취소</string>
+    <string name="agree">동의</string>
+
+    <string name="hint_select_birthday"></string>
+    <string name="confirm">확인</string>
+    <string name="cancel">취소</string>
+
+    <string name="clean_cache">캐시 데이터 제거</string>
+
+    <string name="share_success">공유 성공</string>
+    <string name="share_fail">공유 실패</string>
+    <string name="delete_success">탈퇴 신청 성공</string>
+    <string name="delete_fail">탈퇴 신청 실패</string>
+    <string name="restore_success">복원 성공</string>
+    <string name="restore_fail">복원 실패 </string>
+    <string name="link_success">연동 성공</string>
+    <string name="link_fail">연동 실패 </string>
+    <string name="unlink_success">解绑成功</string>
+    <string name="unlink_fail">解绑失败</string>
+
+</resources>

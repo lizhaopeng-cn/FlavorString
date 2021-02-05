@@ -1,0 +1,107 @@
+<resources>
+    <string name="url_aihelp">https://www.arknights.jp/contact-1-hint</string>
+    <string name="projectID">JP-BiLanHangXian</string>
+    <string name="channel">google</string>
+    <string name="platform">android</string>
+
+    <string name="guest_id">Guest</string>
+    <string name="yostar_id">Yostar</string>
+    <string name="google_id">Gmail</string>
+    <string name="facebook_id">FaceBook</string>
+    <string name="twitter_id">Twitter</string>
+    <string name="trans_login">連携コード</string>
+    <string name="other_login_channel">他のログイン方法</string>
+
+    <string name="input_email">メールアドレス</string>
+    <string name="input_verification_code">認証コード</string>
+    <string name="current_email">現在のメールアドレス:</string>
+    <string name="obtain">送信する</string>
+    <string name="copy">コピー</string>
+    <string name="login">ログイン</string>
+    <string name="bind">連携する</string>
+    <string name="unbind">解除する</string>
+
+    <string name="transcode">連携コード</string>
+    <string name="transcode_login">引継ぎログイン</string>
+    <string name="input_uid">連携用ID</string>
+    <string name="show_uid">显示当前UID</string>
+    <string name="input_transcode">連携用コード</string>
+    <string name="show_transcode">引継ぎコード表示</string>
+    <string name="trans">引継ぎ</string>
+    <string name="create_transcode">引継ぎコード発行</string>
+
+    <!--初始化失败界面提示-->
+    <string name="text_init_failed">初期化失敗、リトライしますか？</string>
+
+    <!--恢复账号界面提示-->
+    <string name="text_restore_account"></string>
+    <string name="text_restore_account_tag"></string>
+
+    <!--韩服游客创建账号界面提示-->
+    <string name="text_create_account"></string>
+    <string name="text_create_account_tag"></string>
+    <string name="text_create_account_bottom"></string>
+
+    <!--切换账号界面提示-->
+    <string name="text_switch_account">请注意\n切换账号将覆盖本地账号缓存\n请确认</string>
+
+    <!--切换账号界面提示-->
+    <string name="text_switch_account_bind_guest">別のアカウントでログインした場合、現在プレイ中のゲームデータは上書きされます。\nログインしますか？</string>
+
+    <!--切换账号界面提示-->
+    <string name="text_switch_account_unbind_guest">このアカウントと連携されているゲームデータはありません。\n現在プレイ中のゲームデータと連携しますか？</string>
+
+    <!--日服twitter、Facebook、Google登录自动绑定账号界面提示-->
+    <string name="text_bind_account">このアカウントと連携されているゲームデータはありません。\n新しいゲームデータを作り、連携しますか？</string>
+
+    <string name="text_unbind_account">您的三方账号即将被解绑\n解绑后将无法登录</string>
+
+    <string name="text_delete_account"></string>
+
+    <string name="text_cover_transcode">已有继承码，重复发行会覆盖</string>
+
+    <string name="retry">リトライ</string>
+    <string name="contact_customer_service">お問い合わせ</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="create"></string>
+    <string name="restore"></string>
+
+    <string name="announcement1">お知らせ1</string>
+    <string name="announcement2">お知らせ2</string>
+    <string name="announcement3">お知らせ3</string>
+
+    <!--协议-->
+    <string name="agreement1">利用規約</string>
+    <string name="agreement2">プライバシーポリシー</string>
+    <string name="agreement3"></string>
+    <string name="text_shop_agreement1">資金決済法</string>
+    <string name="text_shop_agreement2">特定商取引法</string>
+    <string name="text_shop_agreement3"></string>
+    <string name="text_shop_agreement4"></string>
+    <string name="text_agreement">上記内容に同意します</string>
+    <string name="text_agreement1"></string>
+    <string name="text_agreement2"></string>
+    <string name="text_agreement3"></string>
+
+    <string name="unagree">キャンセル</string>
+    <string name="agree">確認</string>
+
+    <string name="hint_select_birthday">生年月日入力</string>
+    <string name="confirm">確定</string>
+    <string name="cancel">取消</string>
+
+    <string name="clean_cache">キャッシュクリア</string>
+
+    <string name="share_success">シェア完了</string>
+    <string name="share_fail">シェア失敗</string>
+    <string name="delete_success">シェア失敗</string>
+    <string name="delete_fail">削除失敗</string>
+    <string name="restore_success">復元完了</string>
+    <string name="restore_fail">復元失敗</string>
+    <string name="link_success">連携完了</string>
+    <string name="link_fail">連携失敗</string>
+    <string name="unlink_success">解绑成功</string>
+    <string name="unlink_fail">解绑失败</string>
+
+</resources>

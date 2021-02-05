@@ -1,0 +1,107 @@
+<resources>
+  <string name="url_aihelp"></string>
+  <string name="projectID">US-BiLanHangXian</string>
+  <string name="channel">google</string>
+  <string name="platform">android</string>
+
+  <string name="guest_id">Guest</string>
+  <string name="yostar_id">Yostar</string>
+  <string name="google_id">Gmail</string>
+  <string name="facebook_id">FaceBook</string>
+  <string name="twitter_id">Twitter</string>
+  <string name="trans_login"></string>
+  <string name="other_login_channel">Other ways to login</string>
+
+  <string name="input_email">Please enter your email address</string>
+  <string name="input_verification_code">Please enter the verification code</string>
+  <string name="current_email">Current Email Address:</string>
+  <string name="obtain">Send verification code</string>
+  <string name="copy">Copy</string>
+  <string name="login">Login</string>
+  <string name="bind">Bind</string>
+  <string name="unbind">Unbind</string>
+
+  <string name="transcode"></string>
+  <string name="transcode_login"></string>
+  <string name="input_uid"></string>
+  <string name="show_uid"></string>
+  <string name="input_transcode"></string>
+  <string name="show_transcode"></string>
+  <string name="trans"></string>
+  <string name="create_transcode"></string>
+
+  <!--初始化失败界面提示-->
+  <string name="text_init_failed">Initialization failed, try again?</string>
+
+  <!--恢复账号界面提示-->
+  <string name="text_restore_account"></string>
+  <string name="text_restore_account_tag"></string>
+
+  <!--韩服游客创建账号界面提示-->
+  <string name="text_create_account"></string>
+  <string name="text_create_account_tag"></string>
+  <string name="text_create_account_bottom"></string>
+
+  <!--切换账号界面提示-->
+  <string name="text_switch_account">The current guest account will be overwritten after the account is switched. Are you sure you want to switch the account?</string>
+
+  <!--切换账号界面提示-->
+  <string name="text_switch_account_bind_guest"></string>
+
+  <!--切换账号界面提示-->
+  <string name="text_switch_account_unbind_guest"></string>
+
+  <!--日服twitter、Facebook、Google登录自动绑定账号界面提示-->
+  <string name="text_bind_account"></string>
+
+  <string name="text_unbind_account">Please note that if your account is only bound to one third-party account, you will not be able to log in to this game account after unbinding it from the third-party account. Are you sure you want to unbind?</string>
+
+  <string name="text_delete_account"></string>
+
+  <string name="text_cover_transcode"></string>
+
+  <string name="retry">Try Again</string>
+  <string name="contact_customer_service">Customer Service</string>
+  <string name="yes">Confirm</string>
+  <string name="no">Cancel</string>
+  <string name="create"></string>
+  <string name="restore"></string>
+
+  <string name="announcement1">Announcement1</string>
+  <string name="announcement2">Announcement2</string>
+  <string name="announcement3">Announcement3</string>
+
+  <!--协议-->
+  <string name="agreement1">Terms of Use</string>
+  <string name="agreement2">Privacy Policy</string>
+  <string name="agreement3"></string>
+  <string name="text_shop_agreement1"></string>
+  <string name="text_shop_agreement2"></string>
+  <string name="text_shop_agreement3"></string>
+  <string name="text_shop_agreement4"></string>
+  <string name="text_agreement">I have read and agree with Privacy Policy and Terms of Service</string>
+  <string name="text_agreement1"></string>
+  <string name="text_agreement2"></string>
+  <string name="text_agreement3"></string>
+
+  <string name="unagree">Reject</string>
+  <string name="agree">Confirm</string>
+
+  <string name="hint_select_birthday"></string>
+  <string name="confirm"></string>
+  <string name="cancel"></string>
+
+  <string name="clean_cache">Clear Cache</string>
+
+  <string name="share_success">Successfully shared</string>
+  <string name="share_fail">Failed to share</string>
+  <string name="delete_success">Successfully deleted</string>
+  <string name="delete_fail">Failed to delete</string>
+  <string name="restore_success">Successfully restored</string>
+  <string name="restore_fail">Failed to restore</string>
+  <string name="link_success">Successfully bound</string>
+  <string name="link_fail">Failed to bind</string>
+  <string name="unlink_success">解绑成功</string>
+  <string name="unlink_fail">解绑失败</string>
+
+</resources>
