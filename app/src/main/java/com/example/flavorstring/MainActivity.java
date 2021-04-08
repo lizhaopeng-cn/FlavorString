@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Log.i("MyTag", CoreMain.variants);
                 Log.i("MyTag",getApplication().getString(R.string.projectID));
+                Log.i("MyTag","1");
             }
         });
     }
